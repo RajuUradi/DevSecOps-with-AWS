@@ -1,2 +1,2 @@
 # DevSecOps-with-AWS
-Learining
+Learning
