@@ -13,6 +13,7 @@ fi
 
 for i in $@
 do
+ echo installing $1
  dnf install $i -y  # pass args as nginx ,nodejs ..
  echo "INSTALLING $i IS SUCCESSFULL"
 done 
