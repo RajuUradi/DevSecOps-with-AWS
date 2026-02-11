@@ -16,3 +16,5 @@ do
  dnf install $i -y  # pass args as nginx ,nodejs ..
  echo "INSTALLING $i IS SUCCESSFULL"
 done 
+
+echo "No of args passed : $#  and passed args : $@  "
