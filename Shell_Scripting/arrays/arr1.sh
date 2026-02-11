@@ -14,3 +14,8 @@ for i in ${arr[@]}
 do 
  echo " getting from for loop : $i"
  done
+
+ for arg in "${*}"
+do 
+ echo " getting from for loop : $arg"
+ done

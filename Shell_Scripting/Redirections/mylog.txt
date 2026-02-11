@@ -1,0 +1,24 @@
+total 8
+-rw-r--r-- 1 ajayu 197628 112 Feb 10 09:25 error.txt
+-rwxr-xr-x 1 ajayu 197628  73 Feb 10 09:20 ex1.sh
+-rwxr-xr-x 1 ajayu 197628  44 Feb 10 09:21 ex2.sh
+-rwxr-xr-x 1 ajayu 197628 224 Feb 10 09:39 ex3.sh
+-rwxr-xr-x 1 ajayu 197628 303 Feb 10 09:39 ex4.sh
+-rwxr-xr-x 1 ajayu 197628 428 Feb 10 09:53 ex5.sh
+-rwxr-xr-x 1 ajayu 197628  31 Feb 10 09:52 ex6.sh
+-rw-r--r-- 1 ajayu 197628   0 Feb 10 09:51 logs.txt
+-rw-r--r-- 1 ajayu 197628   0 Feb 10 09:53 mylog.txt
+-rw-r--r-- 1 ajayu 197628 478 Feb 10 09:35 out.txt
+ex5.sh: line 9: lsah: command not found
+total 9
+-rw-r--r-- 1 ajayu 197628 112 Feb 10 09:25 error.txt
+-rwxr-xr-x 1 ajayu 197628  73 Feb 10 09:20 ex1.sh
+-rwxr-xr-x 1 ajayu 197628  44 Feb 10 09:21 ex2.sh
+-rwxr-xr-x 1 ajayu 197628 224 Feb 10 09:39 ex3.sh
+-rwxr-xr-x 1 ajayu 197628 303 Feb 10 09:39 ex4.sh
+-rwxr-xr-x 1 ajayu 197628 428 Feb 10 09:53 ex5.sh
+-rwxr-xr-x 1 ajayu 197628  31 Feb 10 09:52 ex6.sh
+-rw-r--r-- 1 ajayu 197628   0 Feb 10 09:51 logs.txt
+-rw-r--r-- 1 ajayu 197628 557 Feb 10 09:53 mylog.txt
+-rw-r--r-- 1 ajayu 197628 478 Feb 10 09:35 out.txt
+ iam appended not overriden

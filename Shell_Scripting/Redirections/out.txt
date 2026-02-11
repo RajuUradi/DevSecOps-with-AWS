@@ -1,0 +1,11 @@
+total 6
+-rw-r--r-- 1 ajayu 197628 112 Feb 10 09:25 error.txt
+-rwxr-xr-x 1 ajayu 197628  73 Feb 10 09:20 ex1.sh
+-rwxr-xr-x 1 ajayu 197628  44 Feb 10 09:21 ex2.sh
+-rwxr-xr-x 1 ajayu 197628 228 Feb 10 09:26 ex3.sh
+-rwxr-xr-x 1 ajayu 197628 130 Feb 10 09:35 ex4.sh
+-rw-r--r-- 1 ajayu 197628   0 Feb 10 09:27 ex5.sh
+-rw-r--r-- 1 ajayu 197628   0 Feb 10 09:27 ex6.sh
+-rw-r--r-- 1 ajayu 197628   0 Feb 10 09:35 out.txt
+-rw-r--r-- 1 ajayu 197628 478 Feb 10 09:34 right.txt
+iam executed

@@ -1,0 +1,12 @@
+total 12
+-rw-r--r-- 1 ajayu 197628  112 Feb 10 09:25 error.txt
+-rwxr-xr-x 1 ajayu 197628   73 Feb 10 09:20 ex1.sh
+-rwxr-xr-x 1 ajayu 197628   44 Feb 10 09:21 ex2.sh
+-rwxr-xr-x 1 ajayu 197628  224 Feb 10 09:39 ex3.sh
+-rwxr-xr-x 1 ajayu 197628  303 Feb 10 09:39 ex4.sh
+-rwxr-xr-x 1 ajayu 197628  427 Feb 10 09:54 ex5.sh
+-rwxr-xr-x 1 ajayu 197628  269 Feb 10 10:05 ex6.sh
+-rw-r--r-- 1 ajayu 197628    0 Feb 10 10:04 logs.txt
+-rw-r--r-- 1 ajayu 197628 1102 Feb 10 09:53 mylog.txt
+-rw-r--r-- 1 ajayu 197628  478 Feb 10 09:35 out.txt
+iam appended not overriden 

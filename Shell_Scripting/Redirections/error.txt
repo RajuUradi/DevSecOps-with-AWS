@@ -1,0 +1,2 @@
+ls: cannot access 'nofile.txt': No such file or directory
+ls: cannot access 'ou.txt': No such file or directory
