@@ -1,5 +1,7 @@
 #! /bin/bash
 
+set -e
+
 #install packages if they are not yet installed in my server 
 
 USER=$(id -u)
@@ -14,7 +16,7 @@ fi
 for i in $@
 do
  dnf list installed $i
- if [ $? -ne 0 ] ; then
+ if [ $? -ne 0] ; then
     echo installing $1
     dnf install $i -y  # pass args as nginx ,nodejs ..
     echo "INSTALLING $i IS SUCCESSFULL"
