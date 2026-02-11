@@ -4,11 +4,11 @@
 
 USER=$(id -u)
 
-if [USER -ne 0];then
+if [$USER -ne 0];then
   echo "please use root user access"
   exit 1
   else
-   echo "iam a root user"
+  echo "iam a root user"
 fi
 
 for i in $@
