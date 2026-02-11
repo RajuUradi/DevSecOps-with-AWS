@@ -4,7 +4,7 @@
 
 USER=$(id -u)
 
-if [$USER -ne 0];then
+if [ $USER -ne 0 ];then
   echo "please use root user access"
   exit 1
   else
