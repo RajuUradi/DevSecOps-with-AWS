@@ -1,8 +1,10 @@
 #! /bin/bash
 
-set -e #
-
 #install packages if they are not yet installed in my server 
+
+set -e #set -e tells the shell to immediately exit the script if any command 
+#returns a non-zero (error) exit status. It is used to make scripts fail fast instead of continuing after an error.
+
 
 USER=$(id -u)
 
