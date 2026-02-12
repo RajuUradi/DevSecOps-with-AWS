@@ -6,7 +6,7 @@ ls /home/ec2-user/DevSecOps-with-AWS
 
 if [ $? -eq 0 ];then
   echo "command is success and found the file "
-elif [ $? -eq 1 ]
+elif [ $? -eq 1 ];then
   echo "file not found"
  else
   echo "" 
